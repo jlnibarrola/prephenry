@@ -1,2 +1,1 @@
-# prephenry
-prueba modulo 2
+prueba de como crear un repositoria y clonarlo
